@@ -1,2 +1,2 @@
-# trading-engine
-implementation of a stock exchange for Traders at Michigan club
+# Trading Engine
+A group effort by TAM members to build a stock exchange.
